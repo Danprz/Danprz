@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Perez
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I have currently a Data Engenieer role
+- 🌱 I have currently a Data Engineer role
 - 📫 How to reach me danperezm93@gmail.com
 
 <!---
